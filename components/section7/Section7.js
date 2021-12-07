@@ -22,7 +22,8 @@ export default function Section7 () {
                 title="How to Bring Out the Best in Your Favorite Veggies"
                  />
                </div>
-                <button className="px-10 my-10 py-3 bg-yellow-300 font-bold text-xl text-extrabold rounded border-2 border-solid border-black">Visit Our Blog</button>
+                <button className="px-10 my-10 py-3 bg-yellow-300 font-bold text-xl text-extrabold rounded border-2 border-solid border-black hover:bg-green-600">Visit Our Blog</button>
+                <div className="bg-topbgsec8 w-screen bg-cover bg-no-repeat h-[292px]"></div>
             </div>
         </div>
     )

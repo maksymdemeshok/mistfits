@@ -6,7 +6,9 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero-pattern': "url('/img/hero/mm-hero.jpg')",
-        'imgsec6': "url('/img/sec6/mm-funnylooking.jpeg')"
+        'imgsec6': "url('/img/sec6/mm-funnylooking.jpeg')",
+        'topbgsec8' : "url('/img/sec8/mm-signup.svg')",
+        'bgsec8' : "url('/img/sec8/mm-full-bg.jpeg')"
       },
       backgroundColor: {
         'main': '#f2ebd1',
@@ -20,7 +22,8 @@ module.exports = {
         '35%': '35%'
       },
       backgroundPosition: {
-        'right-80': 'right 80%'
+        'right-80': 'right 80%',
+        'top-50' : '0 90%'
       },
       width: {
         '1200': '1200px'
